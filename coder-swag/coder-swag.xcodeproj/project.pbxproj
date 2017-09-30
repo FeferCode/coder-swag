@@ -15,6 +15,7 @@
 		607B7DA11F7F9CD500718E24 /* CategoriesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607B7DA01F7F9CD500718E24 /* CategoriesCell.swift */; };
 		607B7DA31F7FA18A00718E24 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607B7DA21F7FA18A00718E24 /* Category.swift */; };
 		607B7DA61F7FA30700718E24 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607B7DA51F7FA30700718E24 /* DataService.swift */; };
+		607B7DA81F7FB31A00718E24 /* CollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607B7DA71F7FB31A00718E24 /* CollectionCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		607B7DA01F7F9CD500718E24 /* CategoriesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesCell.swift; sourceTree = "<group>"; };
 		607B7DA21F7FA18A00718E24 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		607B7DA51F7FA30700718E24 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		607B7DA71F7FB31A00718E24 /* CollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			isa = PBXGroup;
 			children = (
 				607B7DA01F7F9CD500718E24 /* CategoriesCell.swift */,
+				607B7DA71F7FB31A00718E24 /* CollectionCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				607B7D8C1F7F980100718E24 /* AppDelegate.swift in Sources */,
 				607B7DA31F7FA18A00718E24 /* Category.swift in Sources */,
 				607B7DA61F7FA30700718E24 /* DataService.swift in Sources */,
+				607B7DA81F7FB31A00718E24 /* CollectionCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
